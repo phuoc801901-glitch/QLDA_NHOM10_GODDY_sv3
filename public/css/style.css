@@ -198,4 +198,11 @@
     .role-dropdown-btn:hover {
       background: #f8fafc;
       border-color: #cbd5e1;
-    }
+    }
+/* Task 115: Aging 31-60 days - orange */
+.text-orange {
+    color: #fd7e14 !important;
+}
+.border-orange {
+    border-color: #fd7e14 !important;
+}
